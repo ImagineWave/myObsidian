@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "a689e344933cd754",
+    "type": "split",
+    "children": [
+      {
+        "id": "b381db07c1caee1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "510ae2215af43dd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Spring.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ea581da7cacaa9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "291923a26651cfe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72e63f80322de3a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8b9a95faab39846",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69761c4cb2a87ce7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f03f534e668fdddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f65f341044c2e56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a94f09193b51122c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spring/Spring.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0bf2b9238555ea2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spring/Spring.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1075692cdeb3358",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1decde982c4987c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring/Spring.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "510ae2215af43dd8",
+  "lastOpenFiles": [
+    "Spring framework.md",
+    "Spring/Spring.md",
+    "Stream API.md",
+    "Spring core.md",
+    "Java 8.md",
+    "Лямбды.md",
+    "Spring",
+    "test.md",
+    "Welcome.md"
+  ]
+}

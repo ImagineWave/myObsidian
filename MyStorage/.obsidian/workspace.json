@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring.md",
-                "mode": "preview",
+                "file": "Stream API.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring.md",
+                "file": "Stream API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring.md",
+                "file": "Stream API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring.md"
+                "file": "Stream API.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "510ae2215af43dd8",
   "lastOpenFiles": [
-    "Spring framework.md",
-    "Spring/Spring.md",
-    "Stream API.md",
-    "Spring core.md",
     "Java 8.md",
-    "Лямбды.md",
+    "Lambda.md",
+    "Stream API.md",
+    "Spring/Spring.md",
+    "Spring framework.md",
+    "Spring core.md",
     "Spring",
     "test.md",
     "Welcome.md"

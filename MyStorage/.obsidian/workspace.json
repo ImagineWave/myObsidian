@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d064f6e91e09a2cf",
+        "id": "a64d1a438e7c290f",
         "type": "tabs",
         "children": [
           {
-            "id": "fbfce00e030128da",
+            "id": "f14499e9b585fabe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring data JPA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba892810030bbede",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JpaRepository.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JpaRepository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JpaRepository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JpaRepository.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,13 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba892810030bbede",
+  "active": "f14499e9b585fabe",
   "lastOpenFiles": [
-    "Spring data JPA.md",
+    "CrudRepository.md",
+    "MongoRepository.md",
+    "Java 8.md",
     "JpaRepository.md",
+    "Spring data JPA.md",
+    "заклинания.md",
     "Java.md",
     "PagingAndSortingRepository.md",
-    "Java 8.md",
     "Spring/Spring.md"
   ]
 }
